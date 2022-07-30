@@ -3,6 +3,6 @@
 </div>
 
 
-**Linkedin:** https://www.linkedin.com/in/cmajid
+**Linkedin:** [in/cmajid](https://www.linkedin.com/in/cmajid)
 
-**Github:** https://github.com/cmajid
+**Github:** [github.com/cmajid](https://github.com/cmajid)
