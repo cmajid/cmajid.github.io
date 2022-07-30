@@ -1,6 +1,3 @@
-### Majid Shahmohammadi
-
-------------
 
 **Linkedin:** https://www.linkedin.com/in/cmajid
 
